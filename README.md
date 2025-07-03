@@ -1,8 +1,23 @@
-# Game Hand
-This is a simple game with Computer Vision 
+# 🖐️ Game Hand – A Fun Python CV Game
 
-First of all you should touch the circles with your hand but you have to pay attentio to the distance your distance should be less than 40 cm to touch the circle and increase your score .
+Welcome to **Game Hand**, a simple yet exciting computer vision game built with Python and OpenCV!
 
-If you press Q game will be quit and if you press R game will be restart and your score will be 0 again .
-It is just a simple project of python magics I have share the code to my github you can check it out 
-Play this game with kids and show them maybe they interested to code with python
+## 🎯 Game Objective
+
+Touch the moving circles on the screen **with your hand**. But here's the challenge:  
+Your hand must be **less than 40 cm** away from the camera to successfully hit the circle and gain a point.
+
+Play, move, and test your hand-eye coordination — powered by computer vision magic.
+
+## 🕹️ Controls
+
+- Press **Q** – Quit the game  
+- Press **R** – Restart the game and reset your score to 0
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/matinshirani-py/game-hand.git
+cd game-hand
