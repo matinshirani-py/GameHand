@@ -59,5 +59,5 @@ If you prefer running the game from source code:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/matinshirani-py/game-hand.git
-cd game-hand
+git clone https://github.com/matinshirani-py/GameHand
+cd GameHand
